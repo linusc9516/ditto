@@ -1,0 +1,32 @@
+<Ditto_Theme_File Version = "3" Author = "slmlaggi" Notes = "Catppuccin Mocha Theme">
+	<CaptionLeft>RGB(69, 71, 90)</CaptionLeft>
+	<CaptionRight>RGB(166, 227, 161)</CaptionRight>	
+	<CaptionLeftTopMost>RGB(69, 71, 90)</CaptionLeftTopMost>
+	<CaptionRightTopMost>RGB(250, 179, 135)</CaptionRightTopMost>
+	<CaptionLeftNotConnected>RGB(243, 139, 168)</CaptionLeftNotConnected>
+	<CaptionRightNotConnected>RGB(250, 179, 135)</CaptionRightNotConnected>
+	<CaptionTextColor>RGB(245, 194, 231)</CaptionTextColor>
+	<ListBoxOddRowsBG>RGB(49, 50, 68)</ListBoxOddRowsBG>
+	<ListBoxEvenRowsBG>RGB(30, 30, 46)</ListBoxEvenRowsBG>
+	<ListBoxOddRowsText>RGB(205, 214, 244)</ListBoxOddRowsText>
+	<ListBoxEvenRowsText>RGB(205, 214, 244)</ListBoxEvenRowsText>
+	<ListBoxSelectedBG>RGB(137, 180, 250)</ListBoxSelectedBG>
+	<ListBoxSelectedNoFocusBG>RGB(137, 180, 250)</ListBoxSelectedNoFocusBG>
+	<ListBoxSelectedText>RGB(17, 17, 27)</ListBoxSelectedText>
+	<ListBoxSelectedNoFocusText>RGB(17, 17, 27)</ListBoxSelectedNoFocusText>	
+	<Border>RGB(108, 112, 134)</Border>
+	<BorderTopMost>RGB(180, 190, 254)</BorderTopMost>
+	<BorderNotConnected>RGB(243, 139, 168)</BorderNotConnected>	
+	<GroupTreeBG>RGB(49, 50, 68)</GroupTreeBG>
+	<GroupTreeText>RGB(203, 166, 247)</GroupTreeText>
+	<CaptionSize>20</CaptionSize>
+	<CaptionFontSize>18</CaptionFontSize>
+	<DescriptionWindowBG>RGB(30, 30, 46)</DescriptionWindowBG>
+	<DescriptionWindowText>RGB(205, 214, 244)</DescriptionWindowText>
+	<MainWindowBG>RGB(30, 30, 46)</MainWindowBG>
+	<ClipPastedColor>RGB(250, 179, 135)</ClipPastedColor>
+	<SearchTextBoxFocusBG>RGB(49, 50, 68)</SearchTextBoxFocusBG>
+	<SearchTextBoxFocusText>RGB(205, 214, 244)</SearchTextBoxFocusText>
+	<SearchTextBoxFocusBorder>RGB(137, 180, 250)</SearchTextBoxFocusBorder>
+	<SearchTextHighlight>RGB(249, 226, 175)</SearchTextHighlight>
+</Ditto_Theme_File>
